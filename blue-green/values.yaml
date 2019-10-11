@@ -5,8 +5,8 @@
 replicaCount: 2
 
 image:
-  repository: gcr.io/heptio-images/ks-guestbook-demo
-  tag: 0.1
+  repository: yanivomc/spring-aztek
+  tag: 10
   pullPolicy: IfNotPresent
 
 service:
